@@ -1,116 +1,158 @@
 {
-  "basics": {
-    "name": "Ranjan Kumar",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "typhonazazel@gmail.com",
-    "phone": "6290855325",
-    "website": "http://github.com/Ranjankumar666",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+    "basics": {
+        "name": "Ranjan Kumar",
+        "label": "developer",
+        "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+        "email": "typhonazazel@gmail.com",
+        "phone": "6290855325",
+        "website": "https://github.com/Ranjankumar666",
+        "summary": "Hey, I am Ranjan Kumar and I am an aspiring full stack web developer. I am currently in the second year of my Computer Science Engineering degree. Although I don't have a job experience, I have and still trying to gain as much skills as I can to be job ready. ",
+        "location": {
+            "address": "L/P 216/9/5, Near shree guru ashram, Tarak Builders, Sonamukhi",
+            "postalCode": "700 141",
+            "city": "Kolkata",
+            "countryCode": "IN",
+            "region": "India"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "RanjanKumar666",
+                "url": "https://github.com/Ranjankumar666"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "ranjan-kumar-1000371b5",
+                "url": "https://www.linkedin.com/in/ranjan-kumar-1000371b5/"
+            }
+        ]
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
-  },
-  "work": [{
-    "company": "Company",
-    "position": "Developer",
-    "website": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "website": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
+    "work": [
+        {
+            "company": "Company",
+            "position": "Developer",
+            "website": "http://somecompany.com",
+            "startDate": "2020-01-01",
+            "endDate": "2020-01-01",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "highlights": ["Lead Developer of Innovation hub"]
+        }
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
-    {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
-      "keywords": [
-        "PHP", "NodeJS", "Javascript"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
-      ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
-    }
-  ]
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2020-01-01",
+            "endDate": "2020-01-01",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Meghnad Saha Institute oF Technology",
+            "area": "Computer Scienece And Engineering",
+            "studyType": "Bachelor",
+            "startDate": "19-07-2019",
+            "endDate": "2023",
+            "courses": [
+                "WEB101 - Web Development",
+                "SYS123 - Object Oriented Programming"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2020-11-01",
+            "awarder": "Company",
+            "summary": "Programmer of the Year 2020"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Intermidiate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "SASS",
+                "Javascript ES6+",
+                "React",
+                "React/Redux",
+                "Next.js",
+                "Python/Flask",
+                "PostgreSQL",
+                "MongoDB",
+                "Mongoose",
+                "Tailwind CSS",
+                "Express",
+                "NodeJS",
+                "REST",
+                "Socket.io"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Not a native speaker but can converse in it"
+        },
+        {
+            "language": "Bengali",
+            "Flucency": "Can fluently talk"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Graphic Designing",
+            "keywords": [
+                "Adobe Illustrator",
+                "Adobe PhotoShop",
+                "Adobe Xd",
+                "Figma"
+            ],
+            "description": "I have an interest in Graphic designing for very long time. I make logos for heavy metal bands as a side work. I have a facebook page called 'Casus Artem' through which I conduct my business"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Memeterest: Pinterest Clone",
+            "description": "Project made for Free Code Camp  course",
+            "keywords": [
+                "NodeJS",
+                "Javascript",
+                "React",
+                "React/Redux",
+                "REST"
+            ],
+            "url": "https://pinclone-26bb0.web.app/",
+            "roles": ["Lead Developer", "Designer"],
+            "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+            "type": "web application"
+        },
+        {
+            "name": "Burger Builder",
+            "description": "Project made while learing react",
+            "keywords": ["NodeJS", "Javascript", "React", "Markdown"],
+            "url": "https://burger-builder-7ad47.web.app/",
+            "roles": ["Lead Developer", "Designer"],
+            "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+            "type": "web application"
+        },
+        {
+            "name": "Flask Blog",
+            "description": "Blog website with flask backend",
+            "keywords": ["Flask", "Javascript"],
+            "url": "https://github.com/Ranjankumar666/flaskblog",
+            "roles": ["Lead Developer", "Designer"],
+            "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+            "type": "web application"
+        }
+    ]
 }
