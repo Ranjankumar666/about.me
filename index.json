@@ -55,21 +55,10 @@
             "area": "Computer Scienece And Engineering",
             "studyType": "Bachelor",
             "startDate": "19-07-2019",
-            "endDate": "2023",
-            "courses": [
-                "WEB101 - Web Development",
-                "SYS123 - Object Oriented Programming"
-            ]
+            "endDate": "2023"
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2020-11-01",
-            "awarder": "Company",
-            "summary": "Programmer of the Year 2020"
-        }
-    ],
+    "awards": [],
     "skills": [
         {
             "name": "Web Development",
@@ -120,6 +109,7 @@
             "description": "I have an interest in Graphic designing for very long time. I make logos for heavy metal bands as a side work. I have a facebook page called 'Casus Artem' through which I conduct my business"
         }
     ],
+    "references": [],
     "projects": [
         {
             "name": "Memeterest: Pinterest Clone",
