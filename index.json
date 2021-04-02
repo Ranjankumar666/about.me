@@ -38,17 +38,7 @@
             "highlights": ["Lead Developer of Innovation hub"]
         }
     ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2020-01-01",
-            "endDate": "2020-01-01",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
+    "volunteer": [],
     "education": [
         {
             "institution": "Meghnad Saha Institute oF Technology",
